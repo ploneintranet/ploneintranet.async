@@ -1,0 +1,3 @@
+- Plone Intranet Consortium
+- mattss, Original Author
+- wengole, Original Author
