@@ -33,6 +33,7 @@ lib/
 htmlcov
 .coverage
 source-eggs/
+*.sqlite
 
 # OSX
 .DS_Store
