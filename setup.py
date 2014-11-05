@@ -45,7 +45,7 @@ setup(name='ploneintranet.async',
       ],
       extras_require={
           'test': [
-              'plone.app.testing',
+              'collective.celery[test]',
           ],
           'develop': [
               'Sphinx',
